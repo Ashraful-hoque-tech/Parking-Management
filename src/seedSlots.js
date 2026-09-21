@@ -1,5 +1,5 @@
 import parkingSlotModel from "./models/parkingSlot.model.js";
-import connectDB from "../config/database.js";
+import connectDB from "./config/database.js";
 
 await connectDB();
 
